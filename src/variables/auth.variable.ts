@@ -1,0 +1,1 @@
+export const MAX_AGE: number = 1000*3600*24
